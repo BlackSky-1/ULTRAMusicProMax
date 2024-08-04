@@ -11,4 +11,5 @@
 
 # Прочее
 Телеграм <a href="https://t.me/magisk_module_ultima"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"> </a>
+
 4Pda <a href="https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=130291351"><img src="https://img.shields.io/badge/4PDA%20Forum-Modules%20Thread-009688&style=plastic"> </a>
