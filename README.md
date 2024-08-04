@@ -1,4 +1,5 @@
 ![Release](https://img.shields.io/github/downloads/BlackSky-1/ULTRAMusicProMax/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
+![All Releases](https://img.shields.io/github/downloads/BlackSky-1/ULTRAMusicProMax/total?label=Downloads%20%28All%20Releases%29&style=social)
 # ULTRAMusicProMax
 Улучшение звука на устройствах Android поддержка 32bit/64bit
 
